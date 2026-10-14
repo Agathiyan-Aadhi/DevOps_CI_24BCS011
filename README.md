@@ -39,4 +39,9 @@ The test suite contains 14 tests across three test classes. The latest recorded 
 - `.gitignore` — files excluded from version control
 
 ## Version Control Practice
+<<<<<<< HEAD
 This repository demonstrates feature development using Git branches and JUnit-tested Java code.
+=======
+
+This repository documents bug-fix practice using Git branches and JUnit-tested Java code.
+>>>>>>> bugfix-24BCS011
