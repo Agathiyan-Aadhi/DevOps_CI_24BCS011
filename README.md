@@ -40,4 +40,4 @@ The test suite contains 14 tests across three test classes. The latest recorded 
 
 ## Version Control Practice
 
-This repository is used to practise Git and GitHub operations, including cloning, branching, committing, pushing, pulling, and resolving merge conflicts as part of the DevOps assignment.
+This repository demonstrates feature development and bug-fix practice using Git branches and JUnit-tested Java code.

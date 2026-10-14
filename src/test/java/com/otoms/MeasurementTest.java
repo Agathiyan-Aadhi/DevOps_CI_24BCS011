@@ -41,4 +41,14 @@ public class MeasurementTest {
 
         assertTrue(measurement.isWithinStandardRange());
     }
+
+    @Test
+     void measurementAtStandardUpperLimitsShouldBeWithinRange() {
+        Measurement measurement = new Measurement(
+                60, 60, 30, 40, 60
+        );
+
+        assertTrue(measurement.isWithinStandardRange());
+    }
+
 }

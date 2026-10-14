@@ -51,6 +51,10 @@ public class TailoringOrder {
         return status.equals("DELIVERED");
     }
 
+    public boolean isReadyForDelivery() {
+    return status.equals("READY");
+    }
+
     public int getOrderId() {
         return orderId;
     }
